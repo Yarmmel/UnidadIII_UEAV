@@ -1,0 +1,9 @@
+body{background-color:#8b7fc0;}
+p{color:black;}
+
+div{
+    color:blue;
+    font-size: 50px;
+    background:bisque;
+    border:5px #8b7fc0;
+}
